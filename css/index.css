@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+#cabecera {
+    margin-top: 0.5%;
+    text-align: center;
+}
+
+div.card {
+    display:table-cell;
+    margin-inline: 10px;
+    margin-top: 20px;
+    float: left;
+}
+
+div.card:hover{
+    box-shadow: 10px 10px 10px rgb(97, 127, 138);
+  }
